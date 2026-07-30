@@ -1,0 +1,8 @@
+*.pickle
+.vscode
+*__pycache__
+dataset/
+five_generation_demo
+mutation_blueprint/
+*.DS_Store
+Full_search_artifacts/
